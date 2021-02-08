@@ -1,4 +1,4 @@
-Authors: Yanis Tazi, John
+Authors: John,Yanis 
 Title : Change title
 Introduction section : we have a reference. it is now (1)
 Results
